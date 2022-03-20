@@ -1,0 +1,6 @@
+/*
+min number: 
+    cat numbers.txt | sort -g | head -n 1
+max number:
+    cat numbers.txt | sort -g | tail -n 1
+*/
